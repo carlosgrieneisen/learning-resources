@@ -1,0 +1,14 @@
+cd [empty -> shows current path
+     path -> goes to path
+       .. -> moves one folder back]
+
+ls -> list current folder contained files + folders
+
+mkdir [name], rmdir [name]
+
+new-item [name.extension], del [name.extension]
+
+type [file.txt] -> prints content
+
+echo {new text} >> [file.txt] -> adds new line to existing file
+		>  [file.txt] -> writes text over empty file.
